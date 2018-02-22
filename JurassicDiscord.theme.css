@@ -1,18 +1,15 @@
 //META{"name":"JurassicDiscord","description":"A Jurassic World Fan Theme for BetterDiscord","author":"Silver0034#4220","version":"1.0.0"}*//
-:root {
-    --accent: #0054a6;
-    --shadow: rgba(0, 0, 0, 0.3);
-    --dark1: #242932;
-    --dark2: #232528;
-    --light: #848484;
-}
 
-/* Background */
-.theme-dark .friends-table, .theme-dark .messages-wrapper {
+#app-mount {
 	background-image: url(https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/jurassicDiscordBackground.png);
    	background-size: cover;
 }
-
+:root {
+    --accent: #0054a6;
+    --shadow: rgba(0, 0, 0, 0.3);
+    --shadow2: rgba(0, 0, 0, 0.5);
+    --light: #2a2c30;
+}
 /* Scrollbar */
 .scroller::-webkit-scrollbar-thumb {
     border:none !important;
@@ -20,12 +17,11 @@
     box-shadow: 0 0.5em 0.1em var(--shadow);
 }
 .scroller::-webkit-scrollbar-track {
-    background-color: var(--dark2) !important;
+    background-color: var(--shadow2) !important;
 }
 .scroller::-webkit-scrollbar {
     width: 0.5em !important;
 }
-/* Another Scrollbar Thingy*/
 .scroller::-webkit-scrollbar-track-piece {
 	border: none !important;
 	background: none !important;
@@ -33,19 +29,10 @@
 /* Server Name */
 .header-1tSljs {
     background-color: var(--accent);
+    box-shadow: 0.3em 0.3em 0.2em var(--shadow);
+    border-radius: 0.5em;
 }
-/* Top Bar */
-.title-qAcLxz, .titleCall-3X0yGQ {
- 	background-color: var(--dark1) !important;   
-}
-/* Channel Notice */
-.channelNotice-cQsVXw {
-	background-color: var(--accent);
-}
-/* Channel Div */
-.scrollerWrap-2uBjct {
-    background-color: var(--dark1);
-}
+/* Channels */
 .contentSelectedText-3j5CXt {
     background-color: var(--accent);
     border-radius: 10.5em;
@@ -54,53 +41,96 @@
     background-color: var(--shadow);
     border-radius: 10.5em;
 }
-/* Self User Div */
-.container-iksrDt {
-    background-color: var(--accent);
-}
-/* Guild List */
-.scroller-wrap .guilds {
-    background-image: url(https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/jurassicDiscordBackground-NoIcon.png);
-   	background-size: cover;
-}
-/* Member Names */
-.member {
-   	background-image: url(https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/User-Card.png);
-   	background-size: cover;
-    margin: 0.5em;
-    border-radius: 1em;
-}
-.member:hover {
-   	background-color: var(--accent);
-}
-/* Member list */
-.channel-members {
-    background-image: url(https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/jurassicDiscordBackground-NoIcon.png);
-   	background-size: cover;
-}
 /* Input Bar */
-.flex-horizontal>.flex-spacer {
-    background-color: var(--dark2);
-}
 .channelTextArea-os01xC {
     border-radius: 0.3em;
-    background-color: var(--shadow);
+    background-color: var(--light);
     box-shadow: 0.3em 0.3em 0.2em var(--shadow);
 }
-.theme-dark .typing-3eiiL_ {
-	background-color: var(--dark2) !important;
+/* User Tag */
+.container-iksrDt {
+	background-color: var(--accent) !important;
+    width: 100%;
+    border-radius: 0.5em;
 }
-.theme-dark .chat form {
-    background-color: var(--dark2);
-}
-/* Emoji */
-.emoji {
-    height:4em !important;
-}
-/* Mentions */
+/* Mentions and Alerts */
 .mention-RlZ5F3 {
     background-color: var(--accent);
 }
 .wrapper-2xO9RX {
     background-color: var(--accent);
 }
+.theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages-wrapper .messages .divider:not(.red) span {
+	background-color: var(--accent);
+    color: white;
+}
+
+/* DevilsLynAvenged#6457 wrote everything below this comment, although I chnged  handful of colors. */
+
+.channels-3g2vYe {
+    background-color: rgba(0,0,0,0) !important;
+}
+.container-RYiLUQ {
+    background-color:  transparent !important;
+}
+ /* fix not having a background image anymore */
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
+}
+/* optionally adjust background brightness (0: original image, 1: black) */
+.layers-20RVFW {
+  background: rgba(0,0,0, 0.3) !important;
+}
+.container-2OU7Cz {
+    background-color:  rgba(0,0,0,0);
+}
+.theme-dark .layer, .theme-dark .layers {
+    background: transparent;
+}
+.guilds-wrapper {
+    background-color: var(--shadow2) !important;
+}
+.theme-dark .chat form .typing {
+    background-color: transparent;
+}
+.theme-dark .chat form {
+    background-color: transparent;
+    box-shadow: none;
+}
+.theme-dark .chat>.content {
+    background-color: transparent;
+}
+.theme-dark .chat {
+    background-color: transparent;
+}
+
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+    background-color: transparent;
+}
+.theme-dark .channel-members {
+    background-color: var(--shadow) !important;
+}
+.theme-dark .title-qAcLxz {
+    background: var(--shadow2) !important;
+    box-shadow: none;
+}
+.theme-dark #friends {
+    background-color: transparent;
+}
+.theme-dark .headerBar-cxbhPD {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .content-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .sidebar-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view {
+    background: transparent;
+}
+.theme-dark .noChannel-2EQ0a9{
+      background: transparent;  
+}
+.container-RYiLUQ, 
+.channels-3g2vYe { background: transparent; }
