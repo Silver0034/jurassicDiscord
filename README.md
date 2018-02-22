@@ -1,12 +1,10 @@
-# jurassicDiscord
+# JurassicDiscord
+
 A Jurassic World Fan Theme for BetterDiscord
 
+## What is JurassicDiscord?
 
-
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+JurassicDiscord is a fan-made theme designed to work with the program "BetterDiscord"
 
 ### Prerequisites
 
