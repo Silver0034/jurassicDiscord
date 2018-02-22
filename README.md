@@ -10,7 +10,10 @@ JurassicDiscord is a fan-made theme designed to work with the program [BetterDis
 
 ### Prerequisites
 
-Before you can use this theme, you *must* install BetterDiscord. If you do not already have it, you can find it [here](https://betterdiscord.net/home/).
+* [Discord](https://discordapp.com/) - The Vanilla Program
+* [BetterDiscord](https://betterdiscord.net/home/) - The Mod
+
+Before you can use this theme, you *must* install both Discord and BetterDiscord. If you do not already have the mod BetterDiscord, you can find it [here](https://betterdiscord.net/home/).
 
 ### Installing
 Find the JurassicDiscord Theme [here](https://github.com/Silver0034/jurassicDiscord/blob/master/JurassicDiscord.theme.css).
@@ -54,32 +57,7 @@ Check the check-box on the right hand side of the theme listed "JurassicDiscord"
 ```
 ![Enable Theme](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/themeCheck.PNG)
 
-
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+**Jacob Lodes** - *Everything in the Theme ;)*
+The Images and Code are all original for this theme, although the Jurassic World and Ingen logos are not owned by me. These are my own drawings of them, however.
