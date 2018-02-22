@@ -6,12 +6,14 @@ A Jurassic World Fan Theme for BetterDiscord
 
 JurassicDiscord is a fan-made theme designed to work with the program [BetterDiscord](https://betterdiscord.net/home/). It re-skins the application to look like it could have been used by the fictional Jurassic World amusement park.
 
+![Image of the Theme](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/discord.PNG)
+
 ### Prerequisites
 
 Before you can use this theme, you *must* install BetterDiscord. If you do not already have it, you can find it [here](https://betterdiscord.net/home/).
 
 ### Installing
-Find the JurassicDiscord Theme [Here](https://github.com/Silver0034/jurassicDiscord/blob/master/JurassicDiscord.theme.css)
+Find the JurassicDiscord Theme [here](https://github.com/Silver0034/jurassicDiscord/blob/master/JurassicDiscord.theme.css).
 ```
 Go to the theme's git file.
 ```
