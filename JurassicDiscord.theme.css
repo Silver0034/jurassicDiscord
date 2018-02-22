@@ -1,0 +1,103 @@
+//META{"name":"JurassicDiscord","description":"A Jurassic World Fan Theme for BetterDiscord","author":"Silver0034#4220","version":"1.0.0"}*//
+:root {
+    --accent: #0054a6;
+    --shadow: rgba(0, 0, 0, 0.3);
+    --dark1: #242932;
+    --dark2: #232528;
+    --light: #848484;
+}
+
+/* Background */
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+	background-image: url(https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/jurassicDiscordBackground.png);
+   	background-size: cover;
+}
+
+/* Scrollbar */
+.scroller::-webkit-scrollbar-thumb {
+    border:none !important;
+    background-color: var(--accent) !important;
+    box-shadow: 0 0.5em 0.1em var(--shadow);
+}
+.scroller::-webkit-scrollbar-track {
+    background-color: var(--dark2) !important;
+}
+.scroller::-webkit-scrollbar {
+    width: 0.5em !important;
+}
+/* Another Scrollbar Thingy*/
+.scroller::-webkit-scrollbar-track-piece {
+	border: none !important;
+	background: none !important;
+}
+/* Server Name */
+.header-1tSljs {
+    background-color: var(--accent);
+}
+/* Top Bar */
+.title-qAcLxz, .titleCall-3X0yGQ {
+ 	background-color: var(--dark1) !important;   
+}
+/* Channel Notice */
+.channelNotice-cQsVXw {
+	background-color: var(--accent);
+}
+/* Channel Div */
+.scrollerWrap-2uBjct {
+    background-color: var(--dark1);
+}
+.contentSelectedText-3j5CXt {
+    background-color: var(--accent);
+    border-radius: 10.5em;
+}
+.contentHoveredText-2HYGIY {
+    background-color: var(--shadow);
+    border-radius: 10.5em;
+}
+/* Self User Div */
+.container-iksrDt {
+    background-color: var(--accent);
+}
+/* Guild List */
+.scroller-wrap .guilds {
+    background-image: url(https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/jurassicDiscordBackground-NoIcon.png);
+   	background-size: cover;
+}
+/* Member Names */
+.member {
+   	background-image: url(https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/User-Card.png);
+   	background-size: cover;
+    margin: 0.5em;
+    border-radius: 1em;
+}
+.member:hover {
+   	background-color: var(--accent);
+}
+/* Member list */
+.channel-members {
+    background-image: url(https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/jurassicDiscordBackground-NoIcon.png);
+   	background-size: cover;
+}
+/* Input Bar */
+.flex-horizontal>.flex-spacer {
+    background-color: var(--dark2);
+}
+.channelTextArea-os01xC {
+    border-radius: 0.3em;
+    background-color: var(--shadow);
+    box-shadow: 0.3em 0.3em 0.2em var(--shadow);
+}
+.theme-dark .chat form {
+    background-color: var(--dark2);
+}
+/* Emoji */
+.emoji {
+    height:4em !important;
+}
+/* Mentions */
+.mention-RlZ5F3 {
+    background-color: var(--accent);
+}
+.wrapper-2xO9RX {
+    background-color: var(--accent);
+}
