@@ -4,7 +4,7 @@ A Jurassic World Fan Theme for BetterDiscord
 
 ## What is JurassicDiscord?
 
-JurassicDiscord is a fan-made theme designed to work with the program "BetterDiscord"
+JurassicDiscord is a fan-made theme designed to work with the program [BetterDiscord](https://betterdiscord.net/home/)
 
 ### Prerequisites
 
