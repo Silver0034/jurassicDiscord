@@ -36,9 +36,8 @@ Install JurassicDiscord
 ```
 Open your theme folder with the button "Open Theme Folder" at the top of the window.
 Drag JurassicDiscord.theme.css from your saved location to the theme folder.
-
 Restart BetterDiscord.
-(You may need to use task manager to do so completely)
+(You may need to use task manager to force close discord background processes)
 ```
 
 Enable Theme
