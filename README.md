@@ -44,10 +44,8 @@ Enable Theme
 ```
 Navigate back to the "Themes" section as detailed two sections prior.
 Check the check-box on the right hand side of the theme listed "JurassicDiscord".
-???Profit
+???Profit!!!
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
