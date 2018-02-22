@@ -11,20 +11,19 @@ JurassicDiscord is a fan-made theme designed to work with the program [BetterDis
 Before you can use this theme, you *must* install BetterDiscord. If you do not already have it, you can find it [here](https://betterdiscord.net/home/).
 
 ### Installing
-
+Find the JurassicDiscord Theme [Here](https://github.com/Silver0034/jurassicDiscord/blob/master/JurassicDiscord.theme.css)
 ```
 Go to the theme's git file.
 ```
-Find the JurassicDiscord Theme [Here](https://github.com/Silver0034/jurassicDiscord/blob/master/JurassicDiscord.theme.css)
-
 Download JurassicDiscord.theme.css
 ```
 Click the button "RAW" in the top right corner.
 Right-click anywhere in the page and choose "Save as" from the dropdown menu.
 Save the file on your desktop or somewhere else you can easily find.
 ```
-```
 Open BetterDiscord
+```
+You should know this one... Just open it like Discord.
 ```
 
 Open "Themes" under "User Settings"
