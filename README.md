@@ -29,7 +29,6 @@ Click the button "RAW" in the top right corner.
 Right-click anywhere in the page and choose "Save as" from the dropdown menu.
 Save the file on your desktop or somewhere else you can easily find.
 ```
-![Save As](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/saveAs.PNG)
 Open BetterDiscord
 ```
 You should know this one... Just open it like Discord.
