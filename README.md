@@ -37,7 +37,6 @@ Open "Themes" under "User Settings"
 Click on the "User Settings" icon in the bottom left of the window.
 Click on the "Themes" link under the BETTERDISCORD division.
 ```
-![User Settings](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/userSettings.PNG) ![Themes](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/theme.PNG)
 
 Install JurassicDiscord
 ```
@@ -53,32 +52,9 @@ Navigate back to the "Themes" section as detailed two sections prior.
 Check the check-box on the right hand side of the theme listed "JurassicDiscord".
 ???Profit!!!
 ```
+![Enable Theme](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/themeCheck.PNG)
 
-## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
