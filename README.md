@@ -12,13 +12,10 @@ Before you can use this theme, you *must* install BetterDiscord. If you do not a
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
 ```
-Give the example
+Download JurassicDiscord
 ```
+Download JurassicDiscord [Here]()
 
 And repeat
 
