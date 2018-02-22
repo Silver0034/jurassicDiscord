@@ -20,9 +20,13 @@ Go to the theme's git file.
 Download JurassicDiscord.theme.css
 ```
 Click the button "RAW" in the top right corner.
+```
+![The "RAW" Button](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/gitPage.PNG)
+```
 Right-click anywhere in the page and choose "Save as" from the dropdown menu.
 Save the file on your desktop or somewhere else you can easily find.
 ```
+![Save As](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/saveAs.PNG)
 Open BetterDiscord
 ```
 You should know this one... Just open it like Discord.
@@ -33,6 +37,7 @@ Open "Themes" under "User Settings"
 Click on the "User Settings" icon in the bottom left of the window.
 Click on the "Themes" link under the BETTERDISCORD division.
 ```
+![User Settings](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/userSettings.PNG) ![Themes](https://raw.githubusercontent.com/Silver0034/jurassicDiscord/master/assets/readme/theme.PNG)
 
 Install JurassicDiscord
 ```
