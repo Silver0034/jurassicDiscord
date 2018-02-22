@@ -13,14 +13,40 @@ Before you can use this theme, you *must* install BetterDiscord. If you do not a
 ### Installing
 
 ```
-Download JurassicDiscord
+Go to the theme's git file.
 ```
-Download JurassicDiscord [Here]()
+Find the JurassicDiscord Theme [Here](https://github.com/Silver0034/jurassicDiscord/blob/master/JurassicDiscord.theme.css)
 
-And repeat
-
+Download JurassicDiscord.theme.css
 ```
-until finished
+Click the button "RAW" in the top right corner.
+Right-click anywhere in the page and choose "Save as" from the dropdown menu.
+Save the file on your desktop or somewhere else you can easily find.
+```
+```
+Open BetterDiscord
+```
+
+Open "Themes" under "User Settings"
+```
+Click on the "User Settings" icon in the bottom left of the window.
+Click on the "Themes" link under the BETTERDISCORD division.
+```
+
+Install JurassicDiscord
+```
+Open your theme folder with the button "Open Theme Folder" at the top of the window.
+Drag JurassicDiscord.theme.css from your saved location to the theme folder.
+
+Restart BetterDiscord.
+(You may need to use task manager to do so completely)
+```
+
+Enable Theme
+```
+Navigate back to the "Themes" section as detailed two sections prior.
+Check the check-box on the right hand side of the theme listed "JurassicDiscord".
+???Profit
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
